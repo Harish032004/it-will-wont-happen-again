@@ -62,6 +62,6 @@ window.addEventListener('scroll', () => {
   function startMusic() {
     const song = document.getElementById("friendship-song");
     song.play();
-    alert("Nanbiye 💖🎶")
+    alert("Nanbiye 💖🎶,Scroll panu okay kuduthutu apodha full website katum")
   }
   
